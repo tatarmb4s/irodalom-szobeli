@@ -10,7 +10,7 @@ Itt hangsúlyos az életrajz
   - [ ] Ágnes Asszony, **Tengeri Hántás**, Walesi Bárdok
 - [x] Ady Endre szerelmi lírájának bemutatása  
 - [x] Babits Mihály ars poeticájának változásai  
-- [ ] *Jellemek és lélektaniság* **Kosztolányi Dezső: Édes Anna** c. regényében
+- [?] *Jellemek és lélektaniság* **Kosztolányi Dezső: Édes Anna** c. regényében
   - [ ] ??? Mennyit kell beszélni itt Kosztolányi életéről? Érdekes az irodalmi munkássága illetve a Kosztolányi lírája rész???
 - [ ] **József Attila kései versei**  
   - [ ] ??? Mely versek tartoznak a kései költészetébe, és mennyire részletezzem traumáit,
